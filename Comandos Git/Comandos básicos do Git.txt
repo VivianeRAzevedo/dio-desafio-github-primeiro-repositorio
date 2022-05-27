@@ -1,0 +1,28 @@
+Link para estudar os comandos do Git: https://comandosgit.github.io/
+
+LISTA DE COMANDOS BÁSICOS 
+
+1. git config: Sua identidade e ativando cores.
+
+2. git help: Obter ajuda.
+
+3. git init: Repositório Git. 
+
+4. git clone: Clonando um repositório existente. 
+
+5. git add: Gravando alterações.
+
+6. git status: Verificando o status. 
+
+7. git diff: Verificando mudanças. 
+
+8. git commit: Commits. 
+
+9. git reset: Desfazendo as coisas. 
+
+10. git rm: Removendo arquivos. 
+
+11. git mv: Movendo arquivos. 
+
+
+ 
